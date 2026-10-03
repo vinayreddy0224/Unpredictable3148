@@ -29,3 +29,14 @@ Maintaining a consistent academic record while exploring emerging tech stacks.
 
 🛠 Skills: C++, Java, Python, Algorithms, Problem Solving.
 
+🏆 Achievements Details
+
+Secured 80% in PUC
+
+Recognition
+
+Academic Excellence
+
+Secondary Education
+
+Secured 70.00% in 10th Grade(CBSE)
