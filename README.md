@@ -1,17 +1,31 @@
-# vinay
-this is my 1st repositry
-<br>
--vinayreddy.B
-# Hi, I'm Vinay 👋
+👋Hi, I'm @Vinay Reddy B
 
-🎓 Student | 💻 Developer | 🚀 Building Projects
+I'm interested in ...
 
-## About Me
-- 🌱 Currently learning Web Development
-- 💻 Interested in AI, software development and open source
-- 📚 Always learning something new
+I'm currently learning ...
 
-## Skills
-`Python` `Java` `JavaScript` `HTML` `CSS` `Git` `GitHub`
-## Connect With Me
-- GitHub: [@vinayreddy](https://github.com/vinayreddy)
+I'm looking to collaborate on ...
+
+How to reach me ...
+
+Vinay Reddy B
+
+👨‍💻 About Me
+I am a dedicated Computer Science & Engineering student with a strong passion for software architecture and the rapidly evolving field of Generative AI. My academic journey at Rao Bahadur Y. Mahabaleswarappa Engineering College is focused on mastering the intersection of robust backend systems and intelligent algorithmic design.
+
+I approach engineering as a problem-solving discipline, aiming to build scalable, secure, and efficient applications. I am actively looking for opportunities to contribute as a key player in challenging and creative environments.
+
+Open To: Full-time roles, internships, and collaborative open-source projects in Software Engineering and AI/ML development.
+
+🔎Projects
+Generative AI & Software Development Projects
+
+💼 Experience
+Engineering Student | Rao Bahadur Y. Mahabaleswarappa Engineering College 2024 - Present
+
+Engaging in deep-dive study of Computer Science fundamentals including DSA and system architecture.
+Collaborating with peers on creative technical projects.
+Maintaining a consistent academic record while exploring emerging tech stacks.
+
+🛠 Skills: C++, Java, Python, Algorithms, Problem Solving.
+
